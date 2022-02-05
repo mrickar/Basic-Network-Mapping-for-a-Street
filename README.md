@@ -1,5 +1,7 @@
 # basic-network-mapping-for-a-street
-This is the Take Home Exam given in METU CENG140 ,C Programming, course which is about "structs" and "linked lists" with C.
+This is the Take Home Exam given in METU CENG140 ,C Programming, course.
+
+There is linked list implementation with C.
 
 The concept is
 
