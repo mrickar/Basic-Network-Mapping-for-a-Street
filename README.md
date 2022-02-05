@@ -8,3 +8,5 @@ is related to how much money you pay for your Internet connection for each month
 
 
 The tasks and functions are explained in the .pdf file more detailed.
+
+main.c file has some example inputs.
